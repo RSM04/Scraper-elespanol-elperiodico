@@ -1,4 +1,4 @@
-# Scraper-elespanol-elperiodico
+# Scraper-elespanol.com
 This scrapper is made for hackaton online of hackupc, for educational purposes
 
 # Run
