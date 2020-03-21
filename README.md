@@ -1,5 +1,5 @@
 # Scraper-elespanol.com
-This scrapper is made for hackaton online of hackupc, for educational purposes
+This scrapper is made for hackathon online of hackupc 21/03/2020, for educational purposes
 
 # Run
 ## npm -i
